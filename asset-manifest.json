@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Memory-Match-Game/static/css/main.f0a7048a.chunk.css",
+    "main.js": "/Memory-Match-Game/static/js/main.82fffdf4.chunk.js",
+    "main.js.map": "/Memory-Match-Game/static/js/main.82fffdf4.chunk.js.map",
+    "runtime-main.js": "/Memory-Match-Game/static/js/runtime-main.e9cddfc2.js",
+    "runtime-main.js.map": "/Memory-Match-Game/static/js/runtime-main.e9cddfc2.js.map",
+    "static/js/2.a842696a.chunk.js": "/Memory-Match-Game/static/js/2.a842696a.chunk.js",
+    "static/js/2.a842696a.chunk.js.map": "/Memory-Match-Game/static/js/2.a842696a.chunk.js.map",
+    "index.html": "/Memory-Match-Game/index.html",
+    "precache-manifest.dec9f3c61cbe97f7cf18b911cd9625f5.js": "/Memory-Match-Game/precache-manifest.dec9f3c61cbe97f7cf18b911cd9625f5.js",
+    "service-worker.js": "/Memory-Match-Game/service-worker.js",
+    "static/css/main.f0a7048a.chunk.css.map": "/Memory-Match-Game/static/css/main.f0a7048a.chunk.css.map",
+    "static/js/2.a842696a.chunk.js.LICENSE.txt": "/Memory-Match-Game/static/js/2.a842696a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Memory-Match-Game/static/media/JiHiddenVines-PZZB.282c443c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9cddfc2.js",
+    "static/js/2.a842696a.chunk.js",
+    "static/css/main.f0a7048a.chunk.css",
+    "static/js/main.82fffdf4.chunk.js"
+  ]
+}
