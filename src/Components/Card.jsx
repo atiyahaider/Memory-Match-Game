@@ -5,7 +5,7 @@ import Letter from './Letter';
 import Number from './Number';
 
 const Card = ({id, card, theme, flipCard}) => {
-    
+    console.log('render')
    const renderSelectTheme = themeNum => {
         switch (themeNum) {
             case 0:
@@ -28,7 +28,7 @@ const Card = ({id, card, theme, flipCard}) => {
     }
 
     return (  
-        <div className="card-container" key={id} id={id} onClick={handleClick}>
+        <div className="card-container" id={id} onClick={handleClick}>
             <div className="card card-back">
                 { renderSelectTheme(theme) }
             </div>
@@ -43,4 +43,4 @@ const Card = ({id, card, theme, flipCard}) => {
     );
 }
  
-export default Card;
+export default React.memo(Card);

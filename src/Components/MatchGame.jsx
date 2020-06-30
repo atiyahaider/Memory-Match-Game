@@ -165,7 +165,7 @@ class MatchGame extends Component {
                     <Defs theme={this.state.theme}/>
 
                     {this.state.cards.map((card, i) => 
-                        (<Card id={i} card={card} theme={this.state.theme} flipCard={this.flipCard} />)
+                        (<Card key={i} id={i} card={card} theme={this.state.theme} flipCard={this.flipCard} />)
                     )}
                 </div>
                 { this.state.modalContent !== '' && 
