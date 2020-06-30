@@ -5,7 +5,7 @@ import Letter from './Letter';
 import Number from './Number';
 
 const Card = ({id, card, theme, flipCard}) => {
-    console.log('render')
+
    const renderSelectTheme = themeNum => {
         switch (themeNum) {
             case 0:
