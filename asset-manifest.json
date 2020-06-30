@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Memory-Match-Game/static/css/main.5b8d4b0f.chunk.css",
-    "main.js": "/Memory-Match-Game/static/js/main.8b2d56e1.chunk.js",
-    "main.js.map": "/Memory-Match-Game/static/js/main.8b2d56e1.chunk.js.map",
+    "main.js": "/Memory-Match-Game/static/js/main.96ecfc9d.chunk.js",
+    "main.js.map": "/Memory-Match-Game/static/js/main.96ecfc9d.chunk.js.map",
     "runtime-main.js": "/Memory-Match-Game/static/js/runtime-main.e9cddfc2.js",
     "runtime-main.js.map": "/Memory-Match-Game/static/js/runtime-main.e9cddfc2.js.map",
     "static/js/2.a842696a.chunk.js": "/Memory-Match-Game/static/js/2.a842696a.chunk.js",
     "static/js/2.a842696a.chunk.js.map": "/Memory-Match-Game/static/js/2.a842696a.chunk.js.map",
     "index.html": "/Memory-Match-Game/index.html",
-    "precache-manifest.43f077a9a1e3d26fabad455a0eee0899.js": "/Memory-Match-Game/precache-manifest.43f077a9a1e3d26fabad455a0eee0899.js",
+    "precache-manifest.1a32a9df1e011df0f4f99bd8e61ee31b.js": "/Memory-Match-Game/precache-manifest.1a32a9df1e011df0f4f99bd8e61ee31b.js",
     "service-worker.js": "/Memory-Match-Game/service-worker.js",
     "static/css/main.5b8d4b0f.chunk.css.map": "/Memory-Match-Game/static/css/main.5b8d4b0f.chunk.css.map",
     "static/js/2.a842696a.chunk.js.LICENSE.txt": "/Memory-Match-Game/static/js/2.a842696a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e9cddfc2.js",
     "static/js/2.a842696a.chunk.js",
     "static/css/main.5b8d4b0f.chunk.css",
-    "static/js/main.8b2d56e1.chunk.js"
+    "static/js/main.96ecfc9d.chunk.js"
   ]
 }
